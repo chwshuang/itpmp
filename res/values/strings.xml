@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActionTabWithSlippingFragmentActivity!</string>
+    <string name="app_name">ActionTabWithSlippingFragment</string>
+    
+    <string name="tab_1">综合知识</string>
+    <string name="tab_2">案例</string>
+    <string name="tab_3">论文</string>
+    
+    <string name="frag_1">Fragment 1</string>
+    <string name="frag_2">Fragment 2</string>
+    <string name="frag_3">Fragment 3</string>
+
+</resources>
