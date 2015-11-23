@@ -166,7 +166,6 @@ public class IndexActivity extends FragmentActivity implements ActionBar.TabList
 
 		@Override
 		public int getCount() {
-			// TODO Auto-generated method stub
 			return TAB_INDEX_COUNT;
 		}
     	
